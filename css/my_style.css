@@ -747,7 +747,7 @@ span.input-group-btn {
 }
 .owl-prev {
 	background-position: left top !important;
-	background: url(file:///C:/hp/images/left.png) no-repeat center  !important;
+	background: url(https://duong-hub.github.io/ProjectKinhphongtamgroyal/images/left.png) no-repeat center  !important;
 	/* background: url(img/content/left.png) no-repeat left !important; */
 	/* background-size: 100% 100% !important; */
 	/* top: 8px !important; */
@@ -758,7 +758,7 @@ span.input-group-btn {
 }
 .owl-next {
 	background-position: center !important;
-	background: url(file:///C:/hp/images/right.png) no-repeat center !important;
+	background: url(https://duong-hub.github.io/ProjectKinhphongtamgroyal/images/right.png) no-repeat center !important;
 	/*background: url(img/content/right.png) no-repeat left !important;*/
 	/*background-size:cover !important;*/
 	 right: -25px!important; 
@@ -1293,7 +1293,7 @@ p.xemthem-ttr a {
     border: none;
 	margin-left:5px;
     padding-left: 10px;
-	background:url(file:///C:/hp/images/bg-input.png) no-repeat;
+	background:url(https://duong-hub.github.io/ProjectKinhphongtamgroyal/images/bg-input.png) no-repeat;
 	background-size:100% 100%;
 }
 
