@@ -17,20 +17,20 @@
 	display: inline-block;
 	width: 22px;
 	height: 22px;
-	background: url(file:///C:/hp/images/dot.png) no-repeat;
+	background: url(https://duong-hub.github.io/ProjectKinhphongtamgroyal/images/dot.png) no-repeat;
 	text-indent: -9999px;
 	border: 0;
 	margin: 0 5px
 }
 .theme-default .nivo-controlNav a.active {
 	background-position: 0 -22px;
-	background: url(file:///C:/hp/images/dot-h.png) no-repeat !important;
+	background: url(https://duong-hub.github.io/ProjectKinhphongtamgroyal/images/dot-h.png) no-repeat !important;
 }
 .theme-default .nivo-directionNav a {
 	display: block;
 	width: 30px;
 	height: 30px;
-	background: url(file:///C:/hp/images/) no-repeat;
+	background: url(https://duong-hub.github.io/ProjectKinhphongtamgroyal/images/dot-h.png) no-repeat;
 	text-indent: -9999px;
 	border: 0;
 	opacity: 1;
